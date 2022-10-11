@@ -63,7 +63,7 @@ establishing control to detect security events
 
     o	Prepare for security events 
 
-Reliability Pillar 
+## Reliability Pillar 
 
 •	Focuses on ability of a system to recover from infrastructure or service disruptions, meeting computing resource demand, mitigate disruptions
 
@@ -81,7 +81,7 @@ Reliability Pillar
 
 •	Reliability question consist around foundations, change management, and failure management
 
-Performance Efficiency Pillar 
+## Performance Efficiency Pillar 
 
 •	Focuses on ability to use IT and computing resources efficiently to meet system requirements 
 
@@ -99,7 +99,7 @@ Performance Efficiency Pillar
 
 •	Performance efficiency questions include selection, review, monitoring, and tradeoffs
 
-Cost Optimization Pillar
+## Cost Optimization Pillar
 
 •	Focuses on ability to run systems to deliver business value at the lowest price point 
 
